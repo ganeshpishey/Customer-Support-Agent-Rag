@@ -118,7 +118,7 @@ python src/pipeline.py --input data/sample_inbound.csv --config configs/config.y
 
 ## Golden-set evaluation protocol
 
-The project includes a completed 200-row golden set. To repeat the process from scratch:
+The repository includes the completed 200-row golden set used for the reported results. The following steps reproduce the evaluation process from scratch:
 
 1. Generate candidate predictions and a stratified annotation file:
 

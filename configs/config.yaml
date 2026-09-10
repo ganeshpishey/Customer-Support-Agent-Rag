@@ -13,5 +13,6 @@ escalation:
   escalate_on_negative_sentiment: true
 eval:
   golden_set_size: 200
-  judge_model: "gpt-4o-mini"
+  judge_provider: "groq"
+  judge_model: "openai/gpt-oss-20b"
   human_agreement_sample_size: 40

@@ -55,7 +55,7 @@ configs/config.yaml                 Pipeline settings
 data/resolution_pairs.csv           5,000 sampled historical AmazonHelp pairs
 data/train_resolution_pairs.csv     4,800 pairs used for leakage-free train/retrieval
 data/golden_inbound.csv             200 held-out messages
-eval/golden_set.csv                 200 human-labelled evaluation examples
+eval/golden_set.csv                 200 completed manual evaluation annotations
 eval/human_judge_subset.csv         40 human-scored reply-quality examples
 outputs/                            Predictions, metrics, and judge scores
 reports/report.md                   Final assignment report
@@ -191,7 +191,7 @@ python src/eval/aggregate_judge_scores.py --chunks outputs/judge_chunk_00.csv ou
 - 43.0% accuracy is only three percentage points above the keyword baseline.
 - The golden set is stratified for coverage, not prevalence-representative of production traffic.
 - Historical replies may be grounded yet generic, stale, or wrong for the new customer's account context.
-- The system escalates 85% of held-out messages; its automation value is currently limited.
+- The system escalates approximately 85% of held-out messages under the current conservative routing policy, limiting its current automation value.
 - LLM-judge agreement is low-to-moderate (mean kappa 0.327), especially for tone.
 
 Read the fuller analysis, including real failure examples, in [reports/report.md](reports/report.md).

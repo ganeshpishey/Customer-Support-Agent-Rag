@@ -1,0 +1,6 @@
+message_id,customer_msg,true_intent,drafted_reply,retrieved_historical_replies,human_groundedness,human_correctness,human_tone_match,human_actionability,judge_groundedness,judge_correctness,judge_tone_match,judge_actionability
+2391895,@AmazonHelp pls pls pls tell me you'll have music unlimited BF deals for EXISTING customers (uk),account_prime,"@AmazonHelp We are happy to help. Without posting personal or account sensitive information, can you tell us more about what's going on?  ^AF https://t.co/1XyLaGkcaN","@545139 We are happy to help. Without posting personal or account sensitive information, can you tell us more about what's going on?  ^AF https://t.co/1XyLaGkcaN
+---
+@220246 If there is an issue, you may return it within the return window. ^NS
+---
+@563034 失礼いたします🙇　Music Unlimited は、4,000万曲以上の楽曲やプレイリスト、ラジオなどを楽しめる音楽聴き放題サービスです🎵　よろしければ、詳細はこちらをご参照ください⇒https://t.co/sRap30X3rC　SM",2,2,4,2,1,1,2,1

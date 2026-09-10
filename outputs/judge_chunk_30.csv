@@ -1,0 +1,27 @@
+message_id,customer_msg,true_intent,drafted_reply,retrieved_historical_replies,human_groundedness,human_correctness,human_tone_match,human_actionability,judge_groundedness,judge_correctness,judge_tone_match,judge_actionability
+457754,@AmazonHelp @137599 my copy of destiny 2 was cancelled because we used the same card to pay on each account and every person Iâve talked to in CS has told me to just buy it again at more than double the price it was when I purchased it,returns_refunds,@AmazonHelp I'm sorry about the poor experience. We would like the chance to assist you with this. Please contact us at the link provided above so we can take a look for you. ^MI,"@799756 I'm sorry about the poor experience. We would like the chance to assist you with this. Please contact us at the link provided above so we can take a look for you. ^MI
+---
+@557217 Hi, sorry to hear there was an issue. Has your order now been cancelled: https://t.co/Sr0IJrdjCy ^TS
+---
+@231878 What was advised by the supervisors you spoke with? Did they provide any insight on a time frame for resolution? ^NC",5,4,5,4,3,4,4,2
+831080,@AmazonHelp Nope. They cancelled the one that was supposed to arrive 10/7. And will try to get the next subscription order out.,returns_refunds,@AmazonHelp We just wanted to see if you received a survey. Please keep us posted when you hear from us on the 16th. ^GR,"@326607 We just wanted to see if you received a survey. Please keep us posted when you hear from us on the 16th. ^GR
+---
+@516213 Thank you for clarifying. Please let us know what the outcome of her follow up call is, and keep us updated! ^DW
+---
+@720875 Perfect! Keep us updated on the outcome! ^AB",1,1,3,1,1,1,1,1
+2110004,@115821 dudes. You refunded me for the wrong item. I got my wine. Just not my #reesespeanutbuttercups the wine cost more! I only needed $4!,returns_refunds,@AmazonHelp Oh no! I'm sorry that happened! We can help with this! Visit us here: https://t.co/ufLP8OycNi to start the return process. ^TK,"@302791 Oh no! I'm sorry that happened! We can help with this! Visit us here: https://t.co/ufLP8OycNi to start the return process. ^TK
+---
+@215099 I'm sorry for the wait. What order status and delivery date(s) are you currently seeing here: https://t.co/Y5jpI9gRhE? ^KM
+---
+@809664 I'm sorry to hear you didn't receive the right item. Was this particular item you ordered wrong twice or was it related to two separate orders? ^SY",3,3,4,3,2,4,3,3
+244076,"@115850 Return pick is not as per date schedule.
+Unsatisfied with Amazon service.pin394601 __email__",returns_refunds,"@AmazonHelp Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. ^MJ","@190545 Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. ^MJ
+---
+@363314 Sorry to know about the delay with the pickup. Please share your details here: https://t.co/GIJyeYqKE0 I'll reach out.^KA
+---
+@317328 here: https://t.co/00q4Sqj9zL for assistance? (2/2) ^KA",2,2,4,2,1,1,1,1
+58121,@AmazonHelp A claim and escalated. Then the same bs email about how more info is needed and the seller hasnât received the item. Horrible customer serv.,returns_refunds,"@AmazonHelp We cannot check accounts here on Twitter. Can I ask, what was the original delivery date given to you on the confirmation email when you placed this order?^GA","@614761 We cannot check accounts here on Twitter. Can I ask, what was the original delivery date given to you on the confirmation email when you placed this order?^GA
+---
+@483372 I'm so sorry for any disappointment! Late packages typically arrive within one business day- please keep us up to date! ^BL
+---
+@313976 I'm sorry you're still waiting on it. What's the delivery date provided in your e-mail confirmation? ^MG",4,4,4,3,3,5,2,4

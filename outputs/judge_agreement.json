@@ -1,0 +1,22 @@
+{
+  "n": 40,
+  "quadratic_kappa": {
+    "groundedness": 0.3646838990968546,
+    "correctness": 0.40129449838187703,
+    "tone_match": 0.14625092798812167,
+    "actionability": 0.3972602739726028
+  },
+  "mean_quadratic_kappa": 0.327372399859864,
+  "judge_mean": {
+    "groundedness": 2.175,
+    "correctness": 2.825,
+    "tone_match": 2.775,
+    "actionability": 2.55
+  },
+  "human_mean": {
+    "groundedness": 2.675,
+    "correctness": 2.6,
+    "tone_match": 3.65,
+    "actionability": 2.5
+  }
+}

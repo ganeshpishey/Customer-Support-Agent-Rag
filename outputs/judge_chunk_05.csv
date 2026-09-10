@@ -1,0 +1,26 @@
+message_id,customer_msg,true_intent,drafted_reply,retrieved_historical_replies,human_groundedness,human_correctness,human_tone_match,human_actionability,judge_groundedness,judge_correctness,judge_tone_match,judge_actionability
+318548,@115850 till now i have no confirmation about order even though guaranteed delivery !!,delivery_order,@AmazonHelp Please reply to the email sent by our specialist teams for further insight on your order. ^VM,"@665264 Please reply to the email sent by our specialist teams for further insight on your order. ^VM
+---
+@146819 Hi, sorry to hear that! What's your parcel status shown as here: https://t.co/BQmcNXViiI Has the carrier updated tracking? ^TS
+---
+@445123 I'm sorry it's late. Please contact us by phone or chat and we'll go over available options: https://t.co/PyACxvY8Qo ^MG",4,4,4,4,2,3,2,3
+386478,"@115850 @AmazonHelp @115821 - Order# 408-3265294-3245900,I haven't recevied my product yet, nobody is giving the date ,i am a prime member",delivery_order,"@AmazonHelp If the details are provided from the link provided, you should have received a correspondence here: https://t.co/DTSNmGldJf ^BS","@119350 If the details are provided from the link provided, you should have received a correspondence here: https://t.co/DTSNmGldJf ^BS
+---
+@127178 We will not be able to provide you any further insight regarding the query. Appreciate your understanding. ^AK
+---
+@288310 Please don't provide your order details, we consider it to be personal information. Our page is visible to the public. ^SM",3,3,4,3,2,1,2,1
+490381,Hey @115821 remind me why I'm paying for 2day shipping when twice this week my packages have been late and another package last month was also late.,delivery_order,@AmazonHelp I'm sorry for the wait! What's the latest tracking/delivery date shown in Your Orders here: https://t.co/Y5jpI9gRhE? ^JM,"@277024 I'm sorry for the wait! What's the latest tracking/delivery date shown in Your Orders here: https://t.co/Y5jpI9gRhE? ^JM
+---
+@129202 I'm sorry that we've let you down, Manny! Have you contacted us to voice your concerns about the carrier? If so, what was advised?^FR
+---
+@277298 I'm sorry to hear we missed the mark for your delivery Mack.  Without divulging any personal information, can you tell me who the carrier is and when was the order supposed to be delivered to you, you can check here: https://t.co/Y5jpI9gRhE? ^SY",5,4,4,4,3,5,5,4
+457656,@AmazonHelp Amazon shipping.,delivery_order,@AmazonHelp Can you contact us here: https://t.co/JzP7hlA23B? ^MC,"@341136 Can you contact us here: https://t.co/JzP7hlA23B? ^MC
+---
+@215290 Hey there, please click here: https://t.co/YtcS8zMWhk and select ""Iva e fatturazione"" to get in touch with our support team. ^LF
+---
+@518266 We'd like to have a specialist take a look into this with you. Please provide details here: https://t.co/exR4tvmRkp ^TR",4,4,4,4,1,3,3,4
+1832523,@AmazonHelp @115821 @AmazonHelp @115850 what good is amazon prime for me then? when it doesn't even work.,delivery_order,@AmazonHelp We've sent a correspondence to your registered email Id here: https://t.co/NTkrxpsbHJ. Kindly check. ^PS,"@304954 We've sent a correspondence to your registered email Id here: https://t.co/NTkrxpsbHJ. Kindly check. ^PS
+---
+@308157 here: https://t.co/beaaDm0muc, we'll get back to you soon. 2/2^AP
+---
+@414670 Sorry to hear that, can you tell us a bit more about the promotion you're referring to without sharing any sensitive info? ^JJ",3,3,4,3,1,1,2,2

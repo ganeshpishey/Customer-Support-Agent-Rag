@@ -1,0 +1,17 @@
+brand:
+  handle: "AmazonHelp"
+  raw_csv_path: "data/twcs.csv"
+sampling:
+  n_conversations: 5000
+  seed: 42
+retrieval:
+  top_k: 5
+  index_path: "data/retrieval.joblib"
+escalation:
+  low_confidence_threshold: 0.52
+  always_escalate_intents: ["safety_legal_other"]
+  escalate_on_negative_sentiment: true
+eval:
+  golden_set_size: 200
+  judge_model: "gpt-4o-mini"
+  human_agreement_sample_size: 40

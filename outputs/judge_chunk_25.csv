@@ -1,0 +1,28 @@
+message_id,customer_msg,true_intent,drafted_reply,retrieved_historical_replies,human_groundedness,human_correctness,human_tone_match,human_actionability,judge_groundedness,judge_correctness,judge_tone_match,judge_actionability
+152203,@AmazonHelp Ah dommage je n'achÃ¨terais pas alors. Vous ne savez pas si vous en aurez Ã  nouveau en stock ? (vu que ce sont les nouveaux ipad pro).,product_information,"@AmazonHelp Bonjour, nous n'avons pas de visibilité par rapport au réapprovisionnement des articles ^ME","@788220 Bonjour, nous n'avons pas de visibilité par rapport au réapprovisionnement des articles ^ME
+---
+@417981 yes, it is ^AT
+---
+@233975 Bonjour Jordan, nous n'avons pas de visibilité sur cela. ^SM",5,5,5,4,5,5,3,2
+1665742,@AmazonHelp Amazonã«ãããªã·ã¹ãã ããã£ããªãã¦â¦â¦ï¼,product_information,@AmazonHelp Thanks for the update. We've received your details and we'll get back to you at the earliest. ^SC,"@279151 Thanks for the update. We've received your details and we'll get back to you at the earliest. ^SC
+---
+@348854 I'm sorry, we currently do not have a date available. We'll e-mail you with any updates if an order has been placed. ^EP
+---
+@576393 ¿Actualmente qué es lo que muestra la información de seguimiento/rastreo de la orden? ^VM",2,2,4,2,2,5,3,3
+246378,"@AmazonHelp Gestionado por Amazon.
+Vendido por: Amazon EU S.a.r.L.",product_information,@AmazonHelp Lo sentimos mucho. Por favor entra en contacto con nuestro Servicio al Cliente por este enlace: https://t.co/KyKcfqiS0j ^JJ,"@396882 Lo sentimos mucho. Por favor entra en contacto con nuestro Servicio al Cliente por este enlace: https://t.co/KyKcfqiS0j ^JJ
+---
+@800860 Comprendo, ¿has podido comunicarte con el transportista encargado de entregar tu pedido? ^KA
+---
+@706432 Puedes mantenernos al tanto de esta entrega. Estamos para ayudarte ^VL",1,1,3,1,5,5,5,5
+920931,@115850 Stop posting shit. You sold be a defective product and doesn't give a damn about  issue. #biycottAmazon #fakeamazon #disappointing services,product_information,@AmazonHelp I'd request you to report the issue with your order here: https://t.co/2t6DQoUmNZ we'll look into it and help you out. 2/2 ^AP,"@479330 I'd request you to report the issue with your order here: https://t.co/2t6DQoUmNZ we'll look into it and help you out. 2/2 ^AP
+---
+@787949 Apologies that you've received a defective product. Please fill in your details here: https://t.co/GIJyeYqKE0 and we'll assist you accordingly. 
+Please don't provide your order details, we consider it to be personal information. Our page is visible to the public. ^PJ
+---
+@206653 Sorry about the unpleasant experience. Please share your details here: https://t.co/GIJyeYqKE0 &amp; we'll get this fixed. ^BS",5,5,5,5,2,4,2,4
+379365,@AmazonHelp I had a scheduled furniture assembly yesterday which never happened. Upon calling the customer care they could not help much apart.,product_information,@AmazonHelp Please don’t provide your order details as we consider them to be personal info. Our Twitter page is visible to public. ^JC,"@337019 Please don’t provide your order details as we consider them to be personal info. Our Twitter page is visible to public. ^JC
+---
+@821739 We would do our best to get the package delivered at the earliest. I would request you to please wait till the estimates. ^KK
+---
+@546436 Please connect with our support team here: https://t.co/POlbWuxLJf and we'll help you with the required information. ^SH",2,2,4,2,1,1,1,1

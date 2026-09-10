@@ -1,0 +1,8 @@
+# Secrets
+.env
+
+# Large/raw data and generated local models
+data/twcs.csv
+data/*.joblib
+__pycache__/
+*.pyc

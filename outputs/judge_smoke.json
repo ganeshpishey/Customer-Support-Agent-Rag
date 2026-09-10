@@ -1,0 +1,10 @@
+{
+  "n": 1,
+  "quadratic_kappa": {
+    "groundedness": 0.0,
+    "correctness": 0.0,
+    "tone_match": 0.0,
+    "actionability": 0.0,
+    "mean_quadratic_kappa": 0.0
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "n": 5,
+  "quadratic_kappa": {
+    "groundedness": 0.140625,
+    "correctness": 0.4444444444444444,
+    "tone_match": 0.0,
+    "actionability": 0.4642857142857143,
+    "mean_quadratic_kappa": 0.26233878968253965
+  }
+}

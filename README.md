@@ -73,7 +73,18 @@ The full raw Kaggle `twcs.csv`, local `.joblib` files, and `.env` are intentiona
 python -m pip install -r requirements.txt
 ```
 
-### 2. Add messages
+### 2. Prepare the local model and retrieval index
+
+Download the Kaggle Customer Support on Twitter dataset (`thoughtvector/customer-support-on-twitter`) and put `twcs.csv` in `data/twcs.csv`. The raw CSV is intentionally not included in this repository.
+
+```powershell
+python src/data_prep.py --config configs/config.yaml
+python src/retrieval.py --config configs/config.yaml
+```
+
+This creates the local `.joblib` classifier and retrieval index from the 5,000-pair AmazonHelp development sample.
+
+### 3. Add messages
 
 Edit `data/new_messages.csv`. It must contain these columns:
 
@@ -83,7 +94,7 @@ demo_1,"My order was due yesterday and tracking has not changed. Can you help?"
 demo_2,"How do I cancel my Prime membership?"
 ```
 
-### 3. Run predictions
+### 4. Run predictions
 
 ```powershell
 python src/pipeline.py --input data/new_messages.csv --config configs/config.yaml --out outputs/new_predictions.csv
